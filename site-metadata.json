@@ -1,0 +1,72 @@
+{
+  "title": "Dean Spears, Economist & Demographer",
+  "layout_style": "overflow",
+  "palette": "blue",
+  "header": {
+    "social_links": [
+      {
+        "type": "action",
+        "label": "Google Scholar",
+        "url": "https://scholar.google.com/citations?hl=en&user=XzPR1u8AAAAJ",
+        "style": "icon",
+        "icon_class": "scholar",
+        "new_window": true
+      },
+      {
+        "type": "action",
+        "label": "UT Austin",
+        "url": "https://liberalarts.utexas.edu/economics/faculty/spearsde",
+        "style": "icon",
+        "icon_class": "university",
+        "new_window": true
+      }
+    ],
+    "profile_img": "images/deanspears.jpg",
+    "background": "light",
+    "tagline": "Economist & Demographer",
+    "has_social": true,
+    "profile_img_alt": "Author avatar",
+    "title": "Dean Spears",
+    "type": "header",
+    "nav_links": [
+      {
+        "type": "action",
+        "label": "Home",
+        "url": "/",
+        "style": "link"
+      },
+      {
+        "type": "action",
+        "label": "CV",
+        "url": "/cv/",
+        "style": "link",
+        "new_window": true
+      },
+      {
+        "type": "action",
+        "label": "Research",
+        "url": "/research/",
+        "style": "link"
+      },
+      {
+        "type": "action",
+        "label": "Media",
+        "url": "/media/",
+        "style": "link"
+      },
+      {
+        "type": "action",
+        "label": "Contact",
+        "url": "/contact/",
+        "style": "link"
+      }
+    ],
+    "has_nav": true
+  },
+  "footer": {
+    "type": "footer",
+    "content": "&copy; Dean Spears. All rights reserved.</a>"
+  },
+  "favicon": "images/favicon.ico",
+  "siteUrl": "https://deanspears.org"
+}
